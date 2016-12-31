@@ -1,2 +1,2 @@
 hello it's Rinkul .it's cool
-hello rinkul
+hello it's Rinkul .it's cool, its not cool.
